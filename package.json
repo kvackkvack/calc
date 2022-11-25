@@ -1,0 +1,16 @@
+{
+  "name": "calc",
+  "version": "0.1.0",
+  "description": "50% a more expressive Desmos-like calculator, 50% a custom mathsy programming language",
+  "scripts": {
+    "test": "spago test"
+  },
+  "author": "anatisi",
+  "license": "MIT",
+  "devDependencies": {
+    "parcel-bundler": "^1.12.4",
+    "purescript": "^0.13.6",
+    "spago": "^0.14.0",
+    "stylus": "^0.54.7"
+  }
+}
